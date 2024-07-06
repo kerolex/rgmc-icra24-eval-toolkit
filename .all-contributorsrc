@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "CORSMAL",
+      "name": "CORSMAL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47149157?v=4",
+      "profile": "http://corsmal.eecs.qmul.ac.uk/",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "rgmc-icra24-eval-toolkit",
+  "projectOwner": "kerolex"
+}
